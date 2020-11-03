@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+h2{
+    font-size: 3rem;
+    padding: 5%;
+}
+.cal-con{
+    font-size: 3rem;
+    padding: 3%;
+    color: red;
+}
+.main-con{
+    padding: 10%;
+    
+}
+label{
+    font-size: 2rem;
+}
+input{
+    width: 100%;
+    height: 50px;
+    font-size: 1.5rem;
+}
+button{
+    margin: 2%;
+    padding: 1%;
+}
+button:hover{
+    background-color: #eeeeee2a;
+}
